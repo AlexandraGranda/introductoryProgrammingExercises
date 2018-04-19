@@ -21,6 +21,7 @@ public class DiamondExercises {
             }
             System.out.println();
         }
+        System.out.println();
     }
 
     public void diamondWithName(int numberOfStages){
@@ -50,6 +51,7 @@ public class DiamondExercises {
             }
             System.out.println();
         }
+        System.out.println();
     }
 
     public void printUpperDiamond(int numberOfStages){

@@ -17,5 +17,6 @@ public class FizzBuzzExercise {
                 System.out.println(i);
             }
         }
+        System.out.println();
     }
 }

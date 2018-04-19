@@ -4,6 +4,7 @@ public class TriangleExercise {
 
     public void easiestExerciseEver(){
         System.out.println("*");
+        System.out.println();
     }
 
     public void drawHorizontalLine(int numberOfColumns){
@@ -11,6 +12,7 @@ public class TriangleExercise {
         for(int i=0;i<numberOfColumns;i++){
             System.out.print("*");
         }
+        System.out.println();
     }
 
     public void drawVerticalLine(int numberOfRows){
@@ -27,5 +29,6 @@ public class TriangleExercise {
             }
             System.out.println("\n");
         }
+        System.out.println();
     }
 }
